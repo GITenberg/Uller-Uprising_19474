@@ -1,0 +1,44 @@
+_repo: Uller-Uprising_19474
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Carr, John F.
+    birthdate: 1944
+    gutenberg_agent_id: '8699'
+    url: http://www.gutenberg.org/2009/agents/8699
+  - agent_name: Clark, John D.
+    birthdate: 1907
+    deathdate: 1988
+    gutenberg_agent_id: '8698'
+    url: http://www.gutenberg.org/2009/agents/8698
+    wikipedia: http://en.wikipedia.org/wiki/John_D._Clark
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Dig into this science fiction classic from golden-era great H. Beam Piper.
+  This novel offers a thought-provoking and action-packed look at interplanetary trade
+  in the far-off future -- and the problems that erupt when the natives grow restless.
+  Uller Uprising is a must-read for fans of Starship Troopers.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Uller Uprising
+url: http://www.gutenberg.org/ebooks/19474
